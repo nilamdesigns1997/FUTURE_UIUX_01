@@ -23,3 +23,11 @@ Zaikaa - Restaurant Menu &amp; Ordering Interface Design (TASK 1)
 - Designed in Figma and documented via GitHub  
 - Prototype includes full ordering flow for mobile interfaceigma prototypingon and live delivery tracking
 - 
+-  📱 App Screens Screenshot
+
+1. **Welcome Screen** –  “Get Start” button  
+2. **Food Category Selection** – Biryani, Pizza, Chinese, etc  
+3. **Dish Detail View** – Price, recipe, delivery info  
+4. **Add to Cart** – Quantity selection and total calculation  
+5. **Order Confirmation** – Final summary and confirmation
+- 
