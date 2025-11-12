@@ -12,7 +12,7 @@ Zaikaa - Restaurant Menu &amp; Ordering Interface Design (TASK 1)
 2. Food category selection (Biryani, Pizza, Chinese, etc.)  
 3. Dish detail view with price, recipe, and delivery info  
 4. Add to cart and total calculation  
-5. Order confirmati
+5. Order confirmatin
    
  Skills Gained:
 - Wireframing and layout planning  
